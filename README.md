@@ -8,4 +8,4 @@ Tokyo night and Catppuccin inspired themes
 ![Tokyoppuccin Frappé](screenshots/tokyoppuccin-frappe.png)
 
 ## Tokyoppuccin Latte
-![Tokyoppuccin Frappé](screenshots/tokyoppuccin-latte.png)
+![Tokyoppuccin Latte](screenshots/tokyoppuccin-latte.png)

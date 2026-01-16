@@ -1,0 +1,7 @@
+id = "tokyoppuccin"
+name = "Tokyoppuccin Themes"
+version = "0.1.0"
+schema_version = 1
+authors = ["Emmanuel Vernet"]
+description = "Tokyoppuccin Themes - inspired by Tokyo Night and Catppuccin"
+repository = "https://github.com/EmmanuelVernet/zed-tokyoppuccin"
