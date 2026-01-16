@@ -958,12 +958,12 @@
             "font_weight": null
           },
           "variable.member": {
-            "color": "#8caaee",
+            "color": "#8caaee", // #c0caf5
             "font_style": null,
             "font_weight": null
           },
           "variable.special": {
-            "color": "#46c4bb", // #4dd6cd #f66c8d #F794BE
+            "color": "#46c4bb", // #4dd6cd #F794BE #f55293e3
             "font_style": null,
             "font_weight": null
           },
@@ -1023,7 +1023,7 @@
             "font_weight": null
           },
           "string.special.symbol": {
-            "color": "#e8a9a9", // old: #eebebe
+            "color": "#e8a9a9", // old: #eebebe #e0b8b8
             "font_style": null,
             "font_weight": null
           },
@@ -1088,7 +1088,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#8caaee",
+            "color": "#7aa2f7", // #3ea0d6 #1793d6
             "font_style": null,
             "font_weight": null
           },
@@ -1138,17 +1138,17 @@
             "font_weight": null
           },
           "keyword.modifier": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.type": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.coroutine": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
@@ -1158,52 +1158,52 @@
             "font_weight": null
           },
           "keyword.operator": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.import": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.repeat": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.return": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.debug": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.exception": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.conditional": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.conditional.ternary": {
-            "color": "#ca9ee6",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.directive": {
-            "color": "#f4b8e4",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
           "keyword.directive.define": {
-            "color": "#f4b8e4",
+            "color": "#ff8bcb",
             "font_style": null,
             "font_weight": null
           },
@@ -1213,7 +1213,7 @@
             "font_weight": null
           },
           "punctuation": {
-            "color": "#7ac5e2",
+            "color": "#7ac5e2", // #89ddff
             "font_style": null,
             "font_weight": null
           },
@@ -1243,7 +1243,7 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#5f6996",
+            "color": "#565f89",
             "font_style": "italic",
             "font_weight": null
           },
