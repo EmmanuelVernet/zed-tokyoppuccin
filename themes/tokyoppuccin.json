@@ -239,12 +239,12 @@
             "font_weight": null
           },
           "variable.member": {
-            "color": "#8caaee",
+            "color": "#8caaee", // #c0caf5
             "font_style": null,
             "font_weight": null
           },
           "variable.special": {
-            "color": "#46c4bb", // #4dd6cd #F794BE
+            "color": "#46c4bb", // #4dd6cd #F794BE #f55293e3
             "font_style": null,
             "font_weight": null
           },
@@ -369,7 +369,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#8caaee",
+            "color": "#7aa2f7", // #3ea0d6 #1793d6
             "font_style": null,
             "font_weight": null
           },
