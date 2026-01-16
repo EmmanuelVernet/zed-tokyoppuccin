@@ -5,4 +5,4 @@ Tokyo night and Catppuccin inspired themes
 ![Tokyoppuccin Storm](screenshots/tokyoppuccin-storm.png)
 
 ## Tokyoppuccin Frappé
-![Tokyoppuccin Frappé](screenshots/tokyoppuccin-frappe.png.png)
+![Tokyoppuccin Frappé](screenshots/tokyoppuccin-frappe.png)
